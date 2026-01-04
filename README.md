@@ -253,7 +253,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-### 👤 Asha
+### 👤 Ashajasmin
 - **Role**: Firebase
 - **Contact**: ashajasminkumar@gmail.com
 
