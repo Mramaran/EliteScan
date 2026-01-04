@@ -1,8 +1,3 @@
-# localtest
-
-A new Flutter project.
-
-## Getting Started
 
 # 💊 EliteMed - Smart Medicine Price Comparison App
 
