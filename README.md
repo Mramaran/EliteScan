@@ -239,11 +239,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Team
 
-**Team Name**: [Your Team Name]
+**Team Name**: Hack Elite
+- **Developer**: Kiruthika K
+- **Role**: Data Collector
+- **Contact**: kiruthikakk82005@gmail.com
 
-- **Developer**: [Your Name]
+- **Developer**: Thirumaran S L
 - **Role**: Full Stack Flutter Developer
-- **Contact**: [your.email@example.com]
+- **Contact**: mrmaran@protonmail.com
+
 
 ---
 
@@ -253,15 +257,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - **Google** - For amazing ML Kit, Firebase, and Gemini AI technologies
 - **Flutter Team** - For the excellent cross-platform framework
 - **Medicine data sources** - Tata 1mg, PharmEasy, Apollo 247, Netmeds, MedPlus, MedX
-
----
-
-## 📞 Support
-
-For questions or support:
-- 📧 Email: [your.email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/elitemed/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/elitemed/discussions)
 
 ---
 
