@@ -23,78 +23,9 @@ A new Flutter project.
 
 ---
 
-## 🔴 Problem Statement
+## 🎯 About The Project
 
-### The Healthcare Affordability Crisis in India
-
-India's healthcare landscape faces a critical challenge: **medicine price opacity**. With over 260 million people managing chronic conditions, the lack of price transparency creates significant financial burden:
-
-#### 📊 Key Statistics
-- 🏥 **8,000+** online pharmacies in India with price variations of **15-40%** for identical medicines
-- 💰 Average Indian household spends **₹3,000-5,000/month** on medicines
-- ⏱️ Finding best prices requires **15-20 minutes** of manual searching across 5-7 websites
-- 💸 Families lose **₹500-1,500/month** (30% potential savings) due to lack of awareness
-- 👴 Senior citizens struggle with **prescription interpretation** and digital navigation
-- 🔍 **10-15%** medication errors due to prescription misreading
-
-#### 🚨 Real-World Impact
-> "I need diabetes medications every month. I didn't know the same medicine costs ₹450 on one site and ₹280 on another. Over a year, I could have saved ₹2,000!" - Chronic patient testimonial
-
-#### 💔 Core Problems
-1. **No Centralized Comparison** - Users manually visit multiple pharmacy websites
-2. **Time Intensive** - 15-20 minutes per medicine search
-3. **Prescription Confusion** - Difficulty reading handwritten prescriptions
-4. **Generic Ignorance** - Lack of awareness about cheaper alternatives
-5. **Mobile Gap** - No unified mobile solution for price transparency
-
----
-
-## ✅ The Solution: EliteMed
-
-### "Compare. Save. Care."
-
-**EliteMed** is India's first AI-powered medicine price comparison platform that combines **Google ML Kit OCR**, **Gemini AI intelligence**, and **Firebase infrastructure** to deliver instant, transparent medicine pricing across 6 major pharmacies.
-
-### 🎯 Solution Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    USER JOURNEY                              │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  📸 Upload Prescription    OR    🔍 Type Medicine Name      │
-│           │                              │                   │
-│           ▼                              ▼                   │
-│  ┌──────────────────┐          ┌──────────────────┐        │
-│  │  Google ML Kit   │          │   Gemini AI      │        │
-│  │  Text OCR        │          │   NLP Search     │        │
-│  └────────┬─────────┘          └────────┬─────────┘        │
-│           │                              │                   │
-│           └──────────┬───────────────────┘                  │
-│                      ▼                                       │
-│           ┌─────────────────────┐                          │
-│           │  Smart Medicine      │                          │
-│           │  Name Extraction     │                          │
-│           └──────────┬───────────┘                          │
-│                      ▼                                       │
-│           ┌─────────────────────┐                          │
-│           │  Query 6 Pharmacy   │                          │
-│           │  Databases          │                          │
-│           └──────────┬───────────┘                          │
-│                      ▼                                       │
-│           ┌─────────────────────┐                          │
-│           │  Real-time Price    │                          │
-│           │  Comparison Engine  │                          │
-│           └──────────┬───────────┘                          │
-│                      ▼                                       │
-│           ┌─────────────────────┐                          │
-│           │  Sorted Results     │                          │
-│           │  Best Deal ✅       │                          │
-│           └─────────────────────┘                          │
-│                                                              │
-│  ⏱️ Total Time: <2 seconds  |  💾 Powered by Firebase     │
-└─────────────────────────────────────────────────────────────┘
-```
+**EliteMed** is an intelligent medicine price comparison platform that empowers users to find the best deals on medicines across 6 major online pharmacies in India. Using cutting-edge Google technologies including ML Kit OCR and Gemini AI, EliteMed makes healthcare more affordable and accessible.
 
 ### ✨ Key Features
 
@@ -302,21 +233,30 @@ Contributions are welcome! Please follow these steps:
 
 **Team Name**: Hack Elite
 
-- **Developer**: Kiruthika K
+---
+
+### 👤 Kiruthika K
 - **Role**: Firebase 
 - **Contact**: kiruthikakk82005@gmail.com
 
-- **Developer**: Thirumaran S L
+---
+
+### 👤 Thirumaran S L
 - **Role**: Full Stack Flutter Developer
 - **Contact**: mrmaran@protonmail.com
 
-- **Developer**: Bharathy K
+---
+
+### 👤 Bharathy K
 - **Role**: Full Stack Flutter Developer
 - **Contact**: bharathykannan6@gmail.com 
 
-- **Developer**: Asha
+---
+
+### 👤 Asha
 - **Role**: Firebase
 - **Contact**: ashajasminkumar@gmail.com
+
 ---
 
 ## 🙏 Acknowledgments
