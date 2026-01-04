@@ -73,7 +73,7 @@ This project leverages multiple Google technologies and services:
 
 | Home Screen | Search Results | Medicine Details |
 |------------|----------------|------------------|
-| ![Home](docs/screenshots/home.png) | ![Search](docs/screenshots/search.png) | ![Details](docs/screenshots/details.png) |
+| ![Home](docs/screenshots/home.jpeg) | ![Search](docs/screenshots/search.jpeg) | ![Details](docs/screenshots/details.jpeg) |
 
 ---
 
