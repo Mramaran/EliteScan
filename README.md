@@ -69,7 +69,6 @@ This project leverages multiple Google technologies and services:
 
 ## 📱 Screenshots
 
-> Add your app screenshots here
 
 | Home Screen | Search Results | Medicine Details |
 |------------|----------------|------------------|
